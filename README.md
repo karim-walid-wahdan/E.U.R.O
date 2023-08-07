@@ -1,16 +1,16 @@
 # E.U.R.O
 
-This repository contains the Elecrtical Unidentified Robotic Object (E.U.R.O) project 
-which is a embeded system robot developed as part of the embdeded systems course at the German University in Cairo, under the supervision of Dr. Hassan soubra. 
+This repository contains the Electrical Unidentified Robotic Object (E.U.R.O) project 
+which is an embedded system robot developed as part of the embedded systems course at the German University in Cairo, under the supervision of Dr. Hassan Soubra. 
 
 ## About
 
-The E.U.R.O project aims to demonstrate the various principles of embeded systems and real time operating systems (RTOS) by providing 4 different functionalties with multiple priorties and how an embeded system equipped with RTOS can handle tasks depending on thier priorty   
+The E.U.R.O project aims to demonstrate the various principles of embedded systems and real-time operating systems (RTOS) by providing 4 different functionalities with multiple priorities and how an embedded system equipped with RTOS can handle tasks depending on their priority   
 
 ## Repository Contents
 
-- `E.U.R.O.ino`: the arduino file representing the robot algorthim embededd with RTOS functionality
-- `ProjectReport.docx`: A report of the design of the of the robot and its functionality 
+- `E.U.R.O.ino`: the Arduino file representing the robot algorithm embedded with RTOS functionality
+- `ProjectReport.docx`: A report on the design of the robot and its functionality 
 
 
 ## Installation
@@ -22,7 +22,7 @@ The E.U.R.O project aims to demonstrate the various principles of embeded system
 
 2. Install Arduino
    
-3. Burn the E.U.R.O.ino on your choice of an arduino board 
+3. Burn the E.U.R.O.ino on your choice of an Arduino board 
 
 ## Contributing
 
