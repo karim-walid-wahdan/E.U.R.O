@@ -28,6 +28,7 @@ The E.U.R.O project aims to demonstrate the various principles of embedded syste
   <li><a href="https://github.com/karim-walid-wahdan">Karim Wahdan</a></li>
   <li><a href="https://github.com/MostKhalifa">Mostafa Khalifa</a></li>
 </ul>
+
 ## Contributing
 
 Contributions to the E.U.R.O project are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
